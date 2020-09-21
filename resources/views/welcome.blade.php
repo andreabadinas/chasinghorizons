@@ -13,7 +13,7 @@
       </div>
       
       <div id="BookCar" class="w3-container w3-white w3-padding-16 myLink">
-        <h3>Book a ride with us!</h3>
+        <h3>Book a ride!</h3>
         <form action="" class="form-group">
             <div class="w3-row-padding" style="margin:0 -16px;">
                 <div class="w3-half">
